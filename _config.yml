@@ -1,0 +1,12 @@
+# Site settings
+title: Kevin Neumann
+email: kevin@kneumann.org
+description: "I'm a software developer."
+baseurl: ""
+url: "http://www.kneumann.org"
+twitter_username: neumee500
+github_username:  neumannk
+
+# Build settings
+markdown: kramdown
+permalink: pretty
