@@ -4,9 +4,5 @@ title: Kevin Neumann
 permalink: /
 exclude-from-nav: true
 ---
-
-<div class="home">
   
-  This site is a work in progress.
-  
-</div>
+This site is a work in progress.
