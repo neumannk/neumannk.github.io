@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 ---
 
 I’m currently in my third year at the University of Florida studying computer science. My interests include back-end software systems, OOP, and design patterns. I’m also pursuing a minor in electrical engineering.  
