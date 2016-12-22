@@ -4,12 +4,16 @@ title: About
 permalink: /
 ---
 
-I’m currently in my third year at the University of Florida studying computer science. My interests include back-end software systems, OOP, and design patterns. I’m also pursuing a minor in electrical engineering.  
+I'm currently in my final semester at the University of Florida studying computer science. After graduation, I'm going to relocate to Seattle and work as a Software Development Engineer at Amazon[^1] on the World Wide Advertising Platforms team. My interests include back-end software systems, OOP, and design patterns. 
 
-My most recent place of employment was at Amazon in the summer of 2015. I interned as a Software Development Engineer on the World Wide Marketing team. I added search functionality, a custom suggestions engine, and an automated data import pipeline to an existing product to handle marketing data at scale. My contributions shipped to over 2000 global users.  
-
-In my spare time, I like to play poker (Hold Em, PLO, Razz, Badugi, 2-7; I’ll play pretty much anything) and learn about new technologies. I’ll also take every opportunity I can get to cook something delicious. (In the past, I spent 10 years playing classical piano. Maybe I’ll get back to that someday.)  
+Some things I like: poker, cooking, binge watching TV shows, beer. Some things I don't like: wearing ties, getting up early. I make lots of Google searches (something like 6,000 annually) and spend lots of time listening to Spotify (over 40,000 minutes last year). I run Linux on all my machines even though I don't always know what I'm doing.  
 
 My [Linkedin](https://www.linkedin.com/in/kevin-neumann-392a148a) is a usually-up-to-date superset of what’s on my résumé.  
 
-If you want to keep up with what I’m doing, I occasionally post on [Twitter](https://twitter.com/neumee500).  
+If you want to keep up with what I’m doing, I occasionally post on [Twitter](https://twitter.com/neumee500) and [Instagram](https://instagram.com/neumee500). The best way to get in touch with me is [email](mailto:kevin@kneumann.org).  
+
+---
+<p />
+<div class="footnotes" markdown="1">
+[^1]: and so I must state that any opinions expressed here are my own and do not necessarily reflect those of my employer
+</div>

@@ -396,3 +396,7 @@ p {
   margin-bottom: 1em;
   text-align: justify;
 }
+
+.footnotes {
+  font-size: 12px;
+}
