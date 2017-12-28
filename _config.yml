@@ -3,10 +3,11 @@ title: Kevin Neumann
 email: kevin@kneumann.org
 description: "I'm a software developer."
 baseurl: ""
-url: "http://www.kneumann.org"
-twitter_username: neumee500
-github_username:  neumannk
+url: "https://www.kneumann.org"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-seo-tag

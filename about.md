@@ -1,19 +1,17 @@
 ---
-layout: about
+layout: page
 title: About
-permalink: /
+permalink: /about
 ---
 
-I'm currently living in Seattle and working as a Software Development Engineer at Amazon[^1] on the Marketing Platforms team. My interests include back-end software systems, OOP, and design patterns. 
+I'm currently living in Seattle and working as a software dev at Amazon as part of advertising sales. My interests include back-end software systems, OOP, and design patterns.  
 
-Some things I like: poker, cooking, binge watching TV shows, beer. Some things I don't like: wearing ties, getting up early. I make lots of Google searches (something like 6,000 annually) and spend lots of time listening to Spotify (over 40,000 minutes last year). I usually run Linux on all my machines even though I don't always know what I'm doing.  
+Outside of work, I’m still pretty into tech and software, but I also like poker, cooking, beer, and aviation (I’m hoping to get a PPL in the next couple years).  
 
-My [Linkedin](https://www.linkedin.com/in/kevin-neumann-392a148a) is a usually-up-to-date superset of what’s on my résumé.  
+My [LinkedIn](https://www.linkedin.com/in/kevin-neumann-392a148a) is a usually-up-to-date superset of what’s on my résumé.  
 
 If you want to keep up with what I’m doing, I occasionally post on [Twitter](https://twitter.com/neumee500) and [Instagram](https://instagram.com/neumee500). The best way to get in touch with me is [email](mailto:kevin@kneumann.org).  
-
+  
 ---
-<p />
-<div class="footnotes" markdown="1">
-[^1]: and so I must state that any opinions expressed here are my own and do not necessarily reflect those of my employer.
-</div>
+
+<sup>*Any opinions expressed here are my own and do not necessarily reflect those of my employer.*</sup>
