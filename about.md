@@ -4,9 +4,9 @@ title: About
 permalink: /about
 ---
 
-I'm currently living in Seattle and working as a software dev at Amazon as part of advertising sales. My interests include back-end software systems, OOP, and design patterns.  
+I'm currently living in Seattle and working as a software dev at Amazon as part of new advertising products. My professional interests include back-end software, SOA, and SaaS.  
 
-Outside of work, I’m still pretty into tech and software, but I also like poker, cooking, beer, and aviation (I’m hoping to get a PPL in the next couple years).  
+Outside of work, I’m still pretty into tech and software, but I also like poker, cooking, beer, and aviation (I’m currently working towards my PPL flying out of KBFI).  
 
 My [LinkedIn](https://www.linkedin.com/in/kevin-neumann-392a148a) is a usually-up-to-date superset of what’s on my résumé.  
 
