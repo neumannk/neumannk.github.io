@@ -1,7 +1,6 @@
 # Site settings
 title: Kevin Neumann
 email: kevin@kneumann.org
-description: "I'm a software developer."
 baseurl: ""
 url: "https://www.kneumann.org"
 
@@ -11,3 +10,4 @@ permalink: pretty
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
