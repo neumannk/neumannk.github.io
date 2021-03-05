@@ -10,10 +10,39 @@
 
             gtag('config', 'UA-111601946-1');
         </script>
+
+        {% capture title %}{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
+
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width,initial-scale=1">
+
+        <meta property="og:title" content="{{title}}"/>
+        <meta property="og:locale" content="en_US"/>
+        <meta name="description" content="Software developer"/>
+        <meta property="og:description" content="Software developer"/>
+        <link rel="canonical" href="https://www.kneumann.org/"/>
+        <meta property="og:url" content="https://www.kneumann.org/"/>
+        <meta property="og:site_name" content="Kevin Neumann"/>
+        <meta name="twitter:card" content="summary"/>
+        <meta property="twitter:title" content="{{title}}"/>
+        <title>{{title}}</title>
+        <script type="application/ld+json">
+            {
+                "@type": "WebSite",
+                "headline": "Kevin Neumann",
+                "url": "https://www.kneumann.org/",
+                "description": "Software developer",
+                "name": "Kevin Neumann",
+                "@context": "https://schema.org"
+            }
+        </script>
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/favicon/site.webmanifest">
+
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="stylesheet" href="/css/main.css">
-        {% seo %}
     </head>
