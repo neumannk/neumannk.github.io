@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-I'm currently living in Seattle and working as a senior software development engineer at AWS. 
+I'm currently living in Seattle and working as a software engineer at Smartsheet. 
 My professional interests include back-end software, web services, Kotlin, and serverless infrastructure. 
 If this site hasn't already made it obvious, I have no interest in front-end or web development.  
 
